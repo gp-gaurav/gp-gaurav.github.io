@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "SME 30 under 30"
+collection: awards
+type: "International Award"
+permalink: /awards/2025-SME-awards
+venue: "Society of Manufacturing Engineers"
+date: 2025-10-1
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Honored 30 UNDER 30 by SME 
 
-Heading 1
-======
+"https://www.advancedmanufacturing.org/30-under-30/2025-honorees/gaurav-pandey/article_599e84d5-5cd5-4b5b-a5d3-191960ecb98f.html"
 
-Heading 2
-======
-
-Heading 3
-======

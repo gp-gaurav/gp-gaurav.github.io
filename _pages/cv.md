@@ -11,35 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechanical Engineer, Drexel University, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Tesla: Manufacturing Engineer
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Kulicke & Soffa Industries: Advanced Packaging Mechanical Engineer
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ProAutomated: Field Service Engineer
+
+* LTK Engineering Services: Vehicle Engineer
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +30,24 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Blog Post
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.posts reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Tau Beta Pi's New Engineering Solutions for Tomorrow (NEST) Program  coordinator and Judge
+* AASME (American Society of Mechanical Engineers), e-Human Powered Vehicle Challenge (eHPVC) Judge
+* Greater Austin Regional Science and Engineering Fair (GASEF) Judge
+* Reviewer, SAE’s Advances in Design, Materials, Manufacturing & Surface Engineering for Mobility (ADMMS) 2026 
+* Reviewer, SAE’s World Congress Experience
+* Reviewer, SME'S North American Manufacturing Research Institution(NAMRC) 2026
+* Reviewer, IEEE's elearning courses

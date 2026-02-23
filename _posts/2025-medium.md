@@ -1,20 +1,10 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'The Next Era of Generative AI in Manufacturing'
+date: 2025-09-30
+permalink: /posts/2025-medium
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Manufacturing
+  - Generative AI Tools
+  - Industrial Automation
 ---
-
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+URL: https://medium.com/@gaurav.drexel/the-next-era-of-generative-ai-in-manufacturing-b84c3985115d

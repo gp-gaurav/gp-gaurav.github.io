@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "AI Trends for Predictive-Maintenance Strategies"
 collection: publications
-category: manuscripts
+category: magazine
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+date: '2025'
+venue: 'Manufacturing & Technology Magazine'
+paperurl: 'https://www.advancedmanufacturing.org/technologies/software-update/ai-trends-for-predictive-maintenance-strategies/article_1b5520da-40e9-4d95-860e-95e30c3a7866.html'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Pandey, Gaurav. “AI Trends for Predictive-Maintenance Strategies.” Advanced Manufacturing, 2025/2026, https://www.advancedmanufacturing.org/technologies/software-update/ai-trends-for-predictive-maintenance-strategies/article_1b5520da-40e9-4d95-860e-95e30c3a7866.html'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+

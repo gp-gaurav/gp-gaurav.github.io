@@ -1,11 +1,10 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, CA, USA"
+title: "Manufacturing Engineer"
+collection: experience
+permalink: /experience/2023-tesla
+venue: "Tesla"
+date: 2023-07-01
+location: "Austin, TX, USA"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+I've been working at Tesla as Manufacturing Engineer building scalable systems that are both efficient and adaptable.
